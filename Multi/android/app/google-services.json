@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292558484032",
+    "project_id": "providerapptest-dddd9",
+    "storage_bucket": "providerapptest-dddd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292558484032:android:2849f2013b9d78a2b865a5",
+        "android_client_info": {
+          "package_name": "com.techconscience.multileveltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292558484032-qq6kid97eegch16j7p5sphq5dolb9ana.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-J0dtN6lL2fCK0rkFoP8_i7LMVxd0LCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292558484032-qq6kid97eegch16j7p5sphq5dolb9ana.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
